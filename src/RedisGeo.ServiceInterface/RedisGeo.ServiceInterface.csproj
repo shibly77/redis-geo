@@ -10,10 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../RedisGeo.ServiceModel/RedisGeo.ServiceModel.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="ServiceStack" Version="5.*" />
     <PackageReference Include="ServiceStack.Interfaces" Version="5.*" />
     <PackageReference Include="ServiceStack.Text" Version="5.*" />
